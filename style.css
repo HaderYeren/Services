@@ -10,3 +10,6 @@ body{
     padding: 0 29px;
     font-family: 'Montserrat', sans-serif;
 }
+.section-form{
+  background-color: var(--background-light);
+}
